@@ -1,3 +1,6 @@
+#Author: Blankreaper
+#Created: 23 May, 2024
+
 #!/bin/bash
 
 Red=$'\e[1;31m'
